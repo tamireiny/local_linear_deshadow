@@ -4,4 +4,5 @@ More details can be found here: https://tamireiny.github.io/shadow_removal/<br><
 <b> Our full datasets results </b><br>
 <a href="https://www.dropbox.com/s/oxw2t027ynelci1/ISTD%2B.zip?dl=0" target="_blank">ISTD+</a>
 <a href="https://www.dropbox.com/s/09u3t9r4d5ymt00/SRD%2B.zip?dl=0">SRD+</a>
-<a href="https://www.dropbox.com/s/p4pj1ct4szahbjh/SRD.zip?dl=0" target="_blank">SRD</a>
+<a href="https://www.dropbox.com/s/p4pj1ct4szahbjh/SRD.zip?dl=0" target="_blank">SRD</a><br>
+<a href="https://www.dropbox.com/s/00gi98lg3ez5ayl/ISTD%2B_checkpoint.zip?dl=0" target="_blank">ISTD+ Model Checkpoint</a>
