@@ -7,4 +7,5 @@ More details can be found here: https://tamireiny.github.io/shadow_removal/<br><
 <a href="https://www.dropbox.com/s/p4pj1ct4szahbjh/SRD.zip?dl=0" target="_blank">SRD</a><br>
 <b> Our models checkpoints </b><br>
 <a href="https://www.dropbox.com/s/00gi98lg3ez5ayl/ISTD%2B_checkpoint.zip?dl=0" target="_blank">ISTD+</a>
+<a href="https://www.dropbox.com/sh/5wf0xjz4ewluf97/AACvJMThbEzwrC8deb_dRn4fa?dl=0" target="_blank">SRD+</a>
 <a href="https://www.dropbox.com/s/zmfvsmlc9k4jf8j/SRD_checkpoint.zip?dl=0" target="_blank">SRD</a>
