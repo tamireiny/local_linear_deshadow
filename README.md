@@ -12,3 +12,5 @@ More details can be found here: https://tamireiny.github.io/shadow_removal/<br><
 <b> Our predicted Masks </b><br>
 <a href="https://www.dropbox.com/s/ac3qrjrkmkts8bk/ISTD_Train.zip?dl=0" target="_blank">ISTD Train</a>
 <a href="https://www.dropbox.com/s/u5olvtkwi75v34a/ISTD_Test.zip?dl=0" target="_blank">ISTD Test</a>
+<a href="https://www.dropbox.com/s/u93jz035ntarqur/SRD_Train.zip?dl=0" target="_blank">SRD Train</a>
+<a href="https://www.dropbox.com/s/b4nhd85togoru55/SRD_Test.zip?dl=0" target="_blank">SRD Test</a>
