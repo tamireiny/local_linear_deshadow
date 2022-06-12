@@ -1,5 +1,5 @@
 # Physics Based Image Deshadowing Using Local Linear Model
-This repository contains a tensorflow implementation of Physics Based Image Deshadowing Using Local Linear Model (CVPR 2022 workshop, Vision for all Seasons: Adverse Weather and Lighting Conditions), the code will be uploaded soon! <br>
+This repository contains a tensorflow implementation of Physics Based Image Deshadowing Using Local Linear Model (CVPR 2022 workshop, Vision for all Seasons: Adverse Weather and Lighting Conditions)<br>
 More details can be found here: https://tamireiny.github.io/shadow_removal/<br><br>
 <b> Our full datasets results </b><br>
 <a href="https://www.dropbox.com/s/oxw2t027ynelci1/ISTD%2B.zip?dl=0" target="_blank">ISTD+</a>
